@@ -14,5 +14,5 @@ git clone https://github.com/ElenaSulina/puls_pro.git
 
 
 - Перейдите в корневую папку **puls_pro**
-- Установите зависимости из файла requirements.txt
+- Установите зависимости из файла **requirements.txt**
 - Запустите файл **main.py**
